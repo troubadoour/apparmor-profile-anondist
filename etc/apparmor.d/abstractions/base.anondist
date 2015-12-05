@@ -124,6 +124,8 @@
 
   /etc/uwt.d/ r,
   /etc/uwt.d/* r,
+  
+  /etc/timezone.anondist r,
 
   ## uwt
   /bin/mkdir rix,
